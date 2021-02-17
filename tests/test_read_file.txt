@@ -1,0 +1,2 @@
+libs;version
+lib1;1
