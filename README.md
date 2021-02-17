@@ -4,7 +4,7 @@ pypackage_test
 
 [![Image of Yaktocat](https://img.shields.io/pypi/v/pypackage_test.svg)](https://pypi.python.org/pypi/pypackage_test)
 
-[![Travis](https://img.shields.io/travis/juninho2410/pypackage_test.svg)](https://travis-ci.com/juninho2410/pypackage_test)
+[![Travis](https://img.shields.io/travis/juninho2410/pypackage_test.svg)](https://travis-ci.com/juninho2410/pypackage)
 
 [![Documentation Status](https://readthedocs.org/projects/pypackage-test/badge/?version=latest)](https://pypackage-test.readthedocs.io/en/latest/?badge=latest)
 
